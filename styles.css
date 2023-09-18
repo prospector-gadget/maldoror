@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	border: 4px dotted black;
+	background-color: aliceblue;
+	margin: 25px 25%;
+	padding: 25px 15%;
+}
+
+h1, h2, h3 {
+	text-align: center;
+}
